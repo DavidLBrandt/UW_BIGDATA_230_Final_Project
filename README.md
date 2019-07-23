@@ -1,5 +1,5 @@
 # Project Description
-This project attempts to analyse the taxi pickup and dropoff location usage in New York city to see which locations are most and least remote based on the diversity of connecting taxi trips.
+This project attempts to analyse the taxi trip pickup and dropoff locations in New York city to see which locations are most and least remote based on the diversity of connecting taxi trips.
 
 I will be patterning my project after the approach outlined by [Neo4j Streams Kafka Integration](https://neo4j.com/labs/kafka/) at [neo4j.com](https://neo4j.com)
 
