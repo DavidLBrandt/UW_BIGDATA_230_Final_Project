@@ -16,5 +16,5 @@ the data source will be the Java [Taxi Data Simulator](https://bigdatatechnologi
 * [Docker Compose setups](https://neo4j-contrib.github.io/neo4j-streams/#docker)
 
 # Questions Answered
-* Which location is most isolated based on connecting taxi trips
-* Which location is most central based on connecting taxi trips
+* Which location is most isolated based on connecting taxi trips?
+* Which location is most central based on connecting taxi trips?
